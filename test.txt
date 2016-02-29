@@ -6,5 +6,5 @@ Added one more to test
 
 this is to test git fetch
 
-hi added to push changes using coomand line
-
+hi added to push changes using command line
+2nd push test
